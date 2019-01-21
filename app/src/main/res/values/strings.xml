@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Shopify Mobile Challenge</string>
+    <string name="title_activity_loadup">LoadupActivity</string>
+</resources>
